@@ -1,3 +1,3 @@
 # Todo-List
 
-### This is a sipmle todo-list written by ReactJS and Redux Toolkit
+### This is a simple todo-list written by ReactJS and Redux Toolkit
