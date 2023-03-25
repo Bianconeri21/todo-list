@@ -1,0 +1,31 @@
+.root {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 19px;
+    font-weight: 600;
+    color: #a84300;
+
+    p {
+        margin-right: 10px;
+        width: 50%;
+    }
+
+    label {
+        margin-right: 10px;
+        cursor: pointer;
+    }
+
+    input[type='checkbox'] {
+        cursor: pointer;
+    }
+
+    svg {
+        cursor: pointer;
+        fill: #a84300;
+
+        :hover {
+            fill: red;
+        }
+    }
+}
